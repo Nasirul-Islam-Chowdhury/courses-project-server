@@ -1,0 +1,84 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Introduction to Computer Science",
+        "description": "An introduction to the basics of computer science, including programming concepts, data structures, and algorithms.",
+        "instructor": "John Smith",
+        "level": "Beginner",
+        "duration": "6 weeks",
+        "price": "$49.99"
+      },
+      {
+        "id": 2,
+        "title": "Web Development with HTML, CSS, and JavaScript",
+        "description": "Learn how to create responsive, modern websites using HTML, CSS, and JavaScript.",
+        "instructor": "Jane Doe",
+        "level": "Intermediate",
+        "duration": "8 weeks",
+        "price": "$59.99"
+      },
+      {
+        "id": 3,
+        "title": "Data Science Fundamentals",
+        "description": "An introduction to data analysis and visualization using Python and popular data science libraries.",
+        "instructor": "David Johnson",
+        "level": "Intermediate",
+        "duration": "10 weeks",
+        "price": "$79.99"
+      },
+      {
+        "id": 4,
+        "title": "Java Programming",
+        "description": "Learn the basics of object-oriented programming using the Java programming language.",
+        "instructor": "Sarah Lee",
+        "level": "Beginner",
+        "duration": "6 weeks",
+        "price": "$49.99"
+      },
+      {
+        "id": 5,
+        "title": "Introduction to Artificial Intelligence",
+        "description": "An overview of the field of artificial intelligence, including machine learning, natural language processing, and computer vision.",
+        "instructor": "Michael Chen",
+        "level": "Intermediate",
+        "duration": "12 weeks",
+        "price": "$99.99"
+      },
+      {
+        "id": 6,
+        "title": "Android App Development",
+        "description": "Learn how to create mobile apps for the Android platform using Java and the Android SDK.",
+        "instructor": "Jason Lee",
+        "level": "Intermediate",
+        "duration": "10 weeks",
+        "price": "$79.99"
+      },
+      {
+        "id": 7,
+        "title": "iOS App Development",
+        "description": "Learn how to create mobile apps for the iOS platform using Swift and the iOS SDK.",
+        "instructor": "Emily Kim",
+        "level": "Intermediate",
+        "duration": "10 weeks",
+        "price": "$79.99"
+      },
+      {
+        "id": 8,
+        "title": "Python for Data Analysis",
+        "description": "Learn how to use Python for data analysis, including data cleaning, manipulation, and visualization.",
+        "instructor": "Steven Smith",
+        "level": "Intermediate",
+        "duration": "8 weeks",
+        "price": "$59.99"
+      },
+      {
+        "id": 9,
+        "title": "Database Design and SQL",
+        "description": "Learn how to design and implement databases using SQL.",
+        "instructor": "Mary Johnson",
+        "level": "Intermediate",
+        "duration": "8 weeks",
+        "price": "$59.99"
+      }]
+}
