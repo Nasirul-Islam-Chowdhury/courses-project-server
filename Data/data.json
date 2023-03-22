@@ -89,5 +89,33 @@
         "duration": "8 weeks",
         "price": "$59.99",
         "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-2cDpmgxnRnLFOn_UtG8qhpfQEaHNQuE6aw&usqp=CAU"
-      }]
+      },
+      {
+        "id": 10,
+        "title": "Introduction to Programming",
+        "category": "Programming",
+        "description": "Learn the fundamentals of programming in this course.",
+        "duration": "4 weeks",
+        "price": "$99",
+        "image": "https://source.unsplash.com/500x300/?programming"
+      },
+      {
+        "id": 11,
+        "title": "Web Development Bootcamp",
+        "category": "Web Development",
+        "description": "Become a full-stack web developer in this comprehensive course.",
+        "duration": "12 weeks",
+        "price": "$399",
+        "image": "https://source.unsplash.com/500x300/?web development"
+      },
+      {
+        "id": 12,
+        "title": "Digital Marketing Mastery",
+        "category": "Digital Marketing",
+        "description": "Learn how to create and execute effective digital marketing strategies.",
+        "duration": "8 weeks",
+        "price": "$299",
+        "image": "https://source.unsplash.com/500x300/?digital marketing"
+      }
+    ]
 }
