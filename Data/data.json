@@ -7,7 +7,8 @@
         "instructor": "John Smith",
         "level": "Beginner",
         "duration": "6 weeks",
-        "price": "$49.99"
+        "price": "$49.99",
+        "image": "https://www.lunarcomputercollege.com/wp-content/uploads/2021/03/Introduction-to-computer-science.jpg"
       },
       {
         "id": 2,
@@ -16,7 +17,8 @@
         "instructor": "Jane Doe",
         "level": "Intermediate",
         "duration": "8 weeks",
-        "price": "$59.99"
+        "price": "$59.99",
+        "image": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/127410834/original/e7f1b5afeb5e0821786a74521fa19d4c96212b84/be-your-frontend-web-developer-html-css-javascript-jquery.jpg"
       },
       {
         "id": 3,
@@ -25,7 +27,8 @@
         "instructor": "David Johnson",
         "level": "Intermediate",
         "duration": "10 weeks",
-        "price": "$79.99"
+        "price": "$79.99",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWmBxDXG8T3yjujsj3LdjKNguHrYNjivXdzg&usqp=CAU"
       },
       {
         "id": 4,
@@ -34,7 +37,8 @@
         "instructor": "Sarah Lee",
         "level": "Beginner",
         "duration": "6 weeks",
-        "price": "$49.99"
+        "price": "$49.99",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdzHEH3WKj3famiDFEHKsWWi9Pg2GPZqJs_w&usqp=CAU"
       },
       {
         "id": 5,
@@ -43,7 +47,8 @@
         "instructor": "Michael Chen",
         "level": "Intermediate",
         "duration": "12 weeks",
-        "price": "$99.99"
+        "price": "$99.99",
+        "image": "https://www.slideteam.net/media/catalog/product/cache/1280x720/i/n/introduction_to_artificial_intelligence_powerpoint_presentation__Slide01.jpg"
       },
       {
         "id": 6,
@@ -52,7 +57,8 @@
         "instructor": "Jason Lee",
         "level": "Intermediate",
         "duration": "10 weeks",
-        "price": "$79.99"
+        "price": "$79.99",
+        "image": "https://1.bp.blogspot.com/-b6bxqJmHSBQ/YCF7iAb1e8I/AAAAAAAAQD4/bjVGymoEwg4HKkjQI04cj9LyYnHS4LhdQCLcBGAsYHQ/s0/new-curriculum-for-android-educators-social-v4.png"
       },
       {
         "id": 7,
@@ -61,7 +67,8 @@
         "instructor": "Emily Kim",
         "level": "Intermediate",
         "duration": "10 weeks",
-        "price": "$79.99"
+        "price": "$79.99",
+        "image": "https://www.techosquare.com/images/blog/iphone-ios-mobile-application-development-home.jpg"
       },
       {
         "id": 8,
@@ -70,7 +77,8 @@
         "instructor": "Steven Smith",
         "level": "Intermediate",
         "duration": "8 weeks",
-        "price": "$59.99"
+        "price": "$59.99",
+        "image": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20211109175504/Data-Analysis-with-Python.png"
       },
       {
         "id": 9,
@@ -79,6 +87,7 @@
         "instructor": "Mary Johnson",
         "level": "Intermediate",
         "duration": "8 weeks",
-        "price": "$59.99"
+        "price": "$59.99",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-2cDpmgxnRnLFOn_UtG8qhpfQEaHNQuE6aw&usqp=CAU"
       }]
 }
